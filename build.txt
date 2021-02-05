@@ -1,0 +1,3 @@
+displayName = Black Clover Asta's World
+author = Vallenstriker (Valentin Favre)
+version = 0.1
